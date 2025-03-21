@@ -63,10 +63,6 @@ This project showcases essential skills for data science roles, including:
 - Integration of deep learning models for better fraud detection.
 
 ## Contributors
-- **Your Name** - Data Science & Machine Learning Enthusiast
+- **Amaan Elahi** - Data Science & Machine Learning Enthusiast
 
-Feel free to contribute to this project and improve its performance!
-
----
-**License:** MIT License
 
